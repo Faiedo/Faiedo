@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/6IPUMGY.gif" height="300" width="100%" alt="Cowboy Bebop Banner" style="border-radius: 10px;"/>
-</div>
-
 <br>
 
 <div align="center">
@@ -10,6 +6,10 @@
 
 **Data & AI Solutions Developer | Data Science Intern**
 
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/6IPUMGY.gif" height="300" width="100%" alt="Cowboy Bebop Banner" style="border-radius: 10px;"/>
 </div>
 
 ---
