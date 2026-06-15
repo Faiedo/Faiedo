@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b45e70e1-69e2-4ff4-b2dd-7ef9ecb82958" alt="Faiedo Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/c91516e3-1d3a-40b9-8d65-5cd4cb840f84" alt="Faiedo Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
