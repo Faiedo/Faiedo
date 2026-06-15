@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="./assets/faiedo.mp4" width="100%" style="border-radius: 10px;" autoplay loop muted playsinline></video>
+  <video src="https://raw.githubusercontent.com/Faiedo/Faiedo/main/assets/faiedo.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 <p align="center">
@@ -121,7 +121,7 @@ My main focus is building automated data pipelines to generate intelligent repor
 </p>
 
 <div align="center">
-  <video src="./assets/ending.mp4" width="100%" style="border-radius: 10px;" autoplay loop muted controls></video>
+  <video src="https://raw.githubusercontent.com/Faiedo/Faiedo/main/assets/ending.mp4" width="100%" autoplay loop muted controls></video>
 </div>
 
 <br>
