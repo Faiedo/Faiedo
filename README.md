@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./assets/faiedo.mp4" alt="Faiedo Banner" width="100%" style="border-radius: 10px;" />
-</p>
+<div align="center">
+  <video src="./assets/faiedo.mp4" width="100%" style="border-radius: 10px;" autoplay loop muted playsinline></video>
+</div>
 
 <p align="center">
   <a href="https://github.com/Faiedo">
@@ -120,11 +120,10 @@ My main focus is building automated data pipelines to generate intelligent repor
   </a>
 </p>
 
-<p align="center">
-  <div align="center">
+<div align="center">
   <video src="./assets/ending.mp4" width="100%" style="border-radius: 10px;" autoplay loop muted controls></video>
-  </div>
-  </a>
-</p>
+</div>
+
+<br>
 
 > Code is not finished when it runs. It is finished when the next person can understand it, trust it and change it.
