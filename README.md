@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://raw.githubusercontent.com/Faiedo/Faiedo/main/assets/faiedo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/13f4faf1-58ae-42d5-b98a-b8e35c3d8a60" width="100%" style="border-radius: 10px;" autoplay loop muted playsinline></video>
 </div>
 
 <p align="center">
