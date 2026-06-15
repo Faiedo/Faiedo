@@ -1,6 +1,6 @@
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/13f4faf1-58ae-42d5-b98a-b8e35c3d8a60" width="100%" style="border-radius: 10px;" autoplay loop muted playsinline></video>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b45e70e1-69e2-4ff4-b2dd-7ef9ecb82958" alt="Faiedo Banner" width="100%" style="border-radius: 10px;" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Faiedo">
@@ -119,10 +119,6 @@ My main focus is building automated data pipelines to generate intelligent repor
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-<div align="center">
-  <video src="https://raw.githubusercontent.com/Faiedo/Faiedo/main/assets/ending.mp4" width="100%" autoplay loop muted controls></video>
-</div>
 
 <br>
 
